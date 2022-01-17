@@ -1,0 +1,68 @@
+{
+  "weather": {
+    "min": "Max. temp.",
+    "max": "Min. temp",
+    "lat": "lat:",
+    "lon": "lon:",
+    "cur": "Current temp.",
+    "avg": "Average temp.",
+    "hum": "Humidity",
+    "clouds": "Clouds",
+    "wind_speed": "Winds Speed",
+    "wind_direction": "Wind direction",
+    "map": "Weather map",
+    "meters": "m/s",
+    "pressure": "Pressure",
+    "gust": "Gust",
+    "visibility": "Visibility",
+    "m": "m."
+  },
+  "weekdays": {
+    "Mon": "Mon",
+    "Tue": "Tue",
+    "Wed": "Wed",
+    "Thu": "Thi",
+    "Fri": "Fri",
+    "Sat": "Sat",
+    "Sun": "Sun"
+  },
+  "search": {
+    "enter_city": "Enter city name"
+  },
+  "interface": {
+    "weather": "Weather",
+    "weather_map": "Weather map",
+    "pollution": "Air pollution",
+    "settings": "Settings",
+    "welcome": "Welcome to our weather app"
+  },
+  "settings": {
+    "lang": "Language",
+    "ukrainian": "Ukrainian",
+    "deutsch": "German",
+    "english": "English",
+    "units": "Units",
+    "metric": "Metric",
+    "imperial": "Imperial",
+    "temp_new": "Temperature map",
+    "wind_new": "Wind map",
+    "pressure_new": "Pressure map",
+    "precipitation_new": "Precipitation map",
+    "clouds_new": "Cloud map",
+    "map_type": "Select type of weather map",
+    "geolocation": "Geolocation",
+    "have_permission": "Granted",
+    "no_permission": "Get permission"
+  },
+  "pollution": {
+    "pollutant": "Pollutant concentration in"
+  },
+  "alerts": {
+    "error": "ERROR",
+    "fetch_error": "Error occurred while fetching data from",
+    "try_again": "Try again",
+    "exit": "Exit",
+    "ok": "OK"
+
+  }
+}

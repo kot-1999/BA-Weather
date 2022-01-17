@@ -1,0 +1,69 @@
+{
+  "weather": {
+    "min": "Max. temp.",
+    "max": "Min. temp",
+    "lat": "brei:",
+    "lon": "läng:",
+    "cur": "Aktuelle temp.",
+    "avg": "Mittel temp.",
+    "hum": "Feuchtigkeit",
+    "clouds": "Wolken",
+    "wind_speed": "Windgeschwindigkeit",
+    "wind_direction": "Windrichtung",
+    "map": "Wetterkarte",
+    "meters": "m/s",
+    "pressure": "Druck",
+    "gust": "Gust",
+    "visibility": "Sichtweite",
+    "m": "m."
+  },
+  "weekdays": {
+    "Mon": "Mon",
+    "Tue": "Die",
+    "Wed": "Mit",
+    "Thu": "Don",
+    "Fri": "Fri",
+    "Sat": "Son",
+    "Sun": "Sam"
+  },
+  "search": {
+    "enter_city": "Stadtname eingeben"
+  },
+  "interface": {
+    "weather": "Wetter",
+    "weather_map": "Wetterkarte",
+    "pollution": "Luftverschmutzung",
+    "settings": "Einstellungen",
+    "welcome": "Welcome to our weather app"
+
+  },
+  "settings": {
+    "lang": "Sprache",
+    "ukrainian": "Ukrainisch",
+    "english": "Englisch",
+    "deutsch": "Deutsch",
+    "units": "Einheiten",
+    "metric": "Metrisch",
+    "imperial": "Kaiserliche",
+    "temp_new": "Temperaturkarte",
+    "wind_new": "Windkarte",
+    "pressure_new": "Druckkarte",
+    "precipitation_new": "Niederschlagskarte",
+    "clouds_new": "Cloud-Karte",
+    "map_type": "Wählen Sie die Art der Wetterkarte",
+    "geolocation": "Geolocation",
+    "have_permission": "Granted",
+    "no_permission": "Get permission"
+  },
+  "pollution": {
+    "pollutant": "Schadstoffkonzentration in"
+  },
+  "alerts": {
+    "error": "ERROR",
+    "fetch_error": "Error occurred while fetching data from",
+    "try_again": "Try again",
+    "exit": "Exit",
+    "ok": "OK"
+
+  }
+}
